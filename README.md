@@ -11,3 +11,12 @@ This dataset was collected specifically for a Zindi competition. Almost all of t
 * FastAi
 * Pandas
 
+# 🏆 Competition leaderboard
+- Look for the team name : milaSneB
+- Rank : 89/177 🥉
+- Competition link : [Zind](https://zindi.africa/competitions/kenyan-sign-language-classification-challenge)
+
+
+| Name             | Zindi ID                                                                | Rank On Leaderboard|
+| ----------------- | ------------------------------------------------------------------ |--------------------------|
+| Salim Ben hammadi| [milaSneB](https://zindi.africa/users/mi
