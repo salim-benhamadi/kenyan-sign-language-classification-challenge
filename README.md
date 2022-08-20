@@ -13,7 +13,7 @@ This dataset was collected specifically for a Zindi competition. Almost all of t
 
 # 🏆 Competition leaderboard
 - Look for the team name : milaSneB
-- Rank : 89/177 🥉
+- Rank : 89/177 🎖
 - Competition link : [Zind](https://zindi.africa/competitions/kenyan-sign-language-classification-challenge)
 
 
