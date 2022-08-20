@@ -19,4 +19,4 @@ This dataset was collected specifically for a Zindi competition. Almost all of t
 
 | Name             | Zindi ID                                                                | Rank On Leaderboard|
 | ----------------- | ------------------------------------------------------------------ |--------------------------|
-| Salim Ben hammadi| [milaSneB](https://zindi.africa/users/milaSneB)
+| Salim Ben hammadi| [milaSneB](https://zindi.africa/users/milaSneB) | 89/177|
